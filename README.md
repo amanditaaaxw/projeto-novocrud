@@ -2,6 +2,9 @@ Continuação do projeto feito em sala com um novo crud
 
 Tema escolhido: gerenciamento de produtos 
 
+o crud que criei vai estar dentro de "projeto1+novocrud" em uma pasta especifica chamada "crud_produtos",
+a outra pasta é referente ao projeto feito em sala de aula.
+
 implementei 4 ações do famoso CRUD:
 
 C- create (Cadastrar novos produtos - `cadastrar-produto.php`)
@@ -10,7 +13,7 @@ U- update (Mudar as informações - `editar-produto.php`)
 D- delete (Apagar um produto - `excluir-produto.php`)
 
 para poder executar o arquivo é necessario criar um novo banco de dados e
-abrir http://localhost/projeto1+novocrud/  no navegador
+abrir http://localhost/projeto1+novocrud/  no navegador;
  
 script para criação do banco de dados e as tabelas produtos e clientes.
  Arquivo: sistema.sql
